@@ -1032,12 +1032,12 @@ body, button, input, select, textarea, ::placeholder {
 #bda-qem>button {
     border-color: transparent;
     box-shadow: none;
-    color: rgba(255, 255, 255, .7);
+    color: rgba(0, 255, 0);
     transition: all .15s ease-in-out
 }
 
 #bda-qem>button:hover {
-    background-color: rgba(255, 255, 255, .07)
+    background-color: rgba(0, 227, 255)
 }
 
 #bda-qem>#bda-qem-twitch.active, #bda-qem>#bda-qem-favourite.active, #bda-qem>#bda-qem-emojis.active {
