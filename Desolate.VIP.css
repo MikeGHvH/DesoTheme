@@ -78,6 +78,9 @@
     --bd-blue: var(--main-color);
     --bd-blue-hover: var(--hover-color);
     --bd-blue-active: var(--hover-color)
+    --interactive-normal: #10ff00;
+    --interactive-hover: #00e3ff;
+    --interactive-active: #0014fb;
 }
 
 @-webkit-keyframes cv-fade-in {
