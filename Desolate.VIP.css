@@ -1133,7 +1133,7 @@ body, button, input, select, textarea, ::placeholder {
 }
 
 .side-2ur1Qk #bd-settings-sidebar .ui-tab-bar-item {
-    color: rgba(255, 255, 255, .3);
+    color: rgba(0, 255, 0);
     padding: 8px 0 8px 20px;
     margin: 0;
     transition: all .15s ease-in-out, background-size .3s ease-in-out;
@@ -1169,7 +1169,7 @@ body, button, input, select, textarea, ::placeholder {
 
 .side-2ur1Qk #bd-settings-sidebar .ui-tab-bar-item.selected {
     background: transparent;
-    color: rgb(0, 255, 0);
+    color: rgb(0, 0, 255);
     transition: all .15s ease-in-out, background .3s .2s
 }
 
@@ -1185,7 +1185,7 @@ body, button, input, select, textarea, ::placeholder {
 }
 
 .side-2ur1Qk #bd-settings-sidebar .ui-tab-bar-separator {
-    background: rgb(0, 255, 0)
+    background: rgb(255, 255, 255)
 }
 
 .side-2ur1Qk #bd-settings-sidebar .ui-tab-bar-separator:first-child {
@@ -1193,11 +1193,11 @@ body, button, input, select, textarea, ::placeholder {
 }
 
 .side-2ur1Qk #bd-settings-sidebar div[style] {
-    color: rgb(0, 255, 0) !important
+    color: rgb(255, 255, 255) !important
 }
 
 .side-2ur1Qk #bd-settings-sidebar a {
-    color: rgb(0, 255, 0)
+    color: rgb(255, 255, 255)
     transition: all .1s ease-in-out
 }
 
@@ -1227,20 +1227,20 @@ body, button, input, select, textarea, ::placeholder {
 }
 
 .bd-search-wrapper {
-    background-color: rgba(0, 0, 0, .4) !important
+    background-color: rgb(0, 0, 0) !important
 }
 
 .bd-select .bd-select-options {
-    background-color: rgba(0, 0, 0, .4) !important;
+    background-color: rgb(0, 255, 0) !important;
     border: hidden !important
 }
 
 .bd-select .bd-select-option:hover {
-    background-color: rgba(0, 225, 255, 0.322) !important
+    background-color: rgb(0, 225, 255) !important
 }
 
 .bd-select .bd-select-option.selected {
-    background-color: var(--main-color) !important
+    background-color: rgb(0, 20, 251) !important
 }
 
 .bd-addon-list .bd-addon-card {
@@ -1296,7 +1296,7 @@ body, button, input, select, textarea, ::placeholder {
 }
 
 .bd-settings-title {
-    color: #fff
+    color: #00FF2B
 }
 
 .members-3WRCEx>#MemberCount {
