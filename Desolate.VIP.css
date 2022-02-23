@@ -933,14 +933,14 @@ body, button, input, select, textarea, ::placeholder {
 
 .typeWindows-2-g3UY>.wordmark-2u86JB:before {
     content: "Desolate";
-    color: rgba(255, 255, 255, .7);
+    color: rgba(0, 0, 255, .7);
     font-size: 14px;
     text-shadow: 0 0 3px #000
 }
 
 .typeWindows-2-g3UY>.wordmark-2u86JB:after {
     content: "v0.0.3";
-    color: rgba(255, 255, 255, .3);
+    color: rgba(0, 0, 255, .3);
     font-family: var(--code-font);
     font-size: 10px
 }
@@ -1160,7 +1160,7 @@ body, button, input, select, textarea, ::placeholder {
 
 .side-2ur1Qk #bd-settings-sidebar .ui-tab-bar-item:hover {
     background: rgba(255, 255, 255, .07);
-    color: rgba(0, 255, 0,)
+    color: rgb(0, 255, 0)
 }
 
 .side-2ur1Qk #bd-settings-sidebar .ui-tab-bar-item:hover:before {
@@ -1185,7 +1185,7 @@ body, button, input, select, textarea, ::placeholder {
 }
 
 .side-2ur1Qk #bd-settings-sidebar .ui-tab-bar-separator {
-    background: rgb(255, 255, 255)
+    background: rgb(0, 0, 255)
 }
 
 .side-2ur1Qk #bd-settings-sidebar .ui-tab-bar-separator:first-child {
@@ -1193,11 +1193,11 @@ body, button, input, select, textarea, ::placeholder {
 }
 
 .side-2ur1Qk #bd-settings-sidebar div[style] {
-    color: rgb(255, 255, 255) !important
+    color: rgb(0, 0, 255) !important
 }
 
 .side-2ur1Qk #bd-settings-sidebar a {
-    color: rgb(255, 255, 255)
+    color: rgb(0, 0, 255)
     transition: all .1s ease-in-out
 }
 
@@ -1260,11 +1260,11 @@ body, button, input, select, textarea, ::placeholder {
 }
 
 .bd-button:active {
-    background-color: var(--main-color)
+    background-color: rgb(0, 20, 251)
 }
 
 .bd-addon-views .bd-view-button.selected {
-    background-color: var(--main-color)
+    background-color: rgb(0, 20, 251)
 }
 
 .bd-switch input:checked+.bd-switch-body {
@@ -1272,7 +1272,7 @@ body, button, input, select, textarea, ::placeholder {
 }
 
 .bd-switch-body {
-    background-color: rgba(255, 255, 255, .15) !important
+    background-color: rgba(0, 0, 255, .15) !important
 }
 
 .bd-switch-symbol {
@@ -1361,7 +1361,7 @@ body, button, input, select, textarea, ::placeholder {
 
 .hljs .copybutton {
     background: rgba(255, 255, 255, .1) !important;
-    color: rgba(255, 255, 255, .7) !important;
+    color: rgba(0, 255, 0, .7) !important;
     border: none !important;
     border-top-left-radius: 3px;
     opacity: 0;
@@ -1373,11 +1373,11 @@ body, button, input, select, textarea, ::placeholder {
 }
 
 .hljs .copybutton:hover {
-    color: #fff !important
+    color: rgba(0, 227, 255, .7) !important;
 }
 
 .hljs .copybutton:active {
-    color: var(--main-color) !important
+    color: rgb(0, 20, 251); !important
 }
 
 .hljs:hover .copybutton {
@@ -1514,7 +1514,7 @@ body, button, input, select, textarea, ::placeholder {
 }
 
 .content-1gYQeQ .name-28HaxV {
-    color: var(--channel-color);
+    color: rgb(0, 255, 0)
     transition: all .15s ease-in-out
 }
 
@@ -1539,7 +1539,7 @@ body, button, input, select, textarea, ::placeholder {
 }
 
 .containerDefault-YUSmu3 .wrapper-NhbLHG:hover .content-1gYQeQ .mainContent-20q_Hp .icon-2W8DHg, .containerDefault-YUSmu3 .wrapper-NhbLHG:hover .content-1gYQeQ .mainContent-20q_Hp .name-28HaxV {
-    color: rgba(255, 255, 255, .7)
+    color: rgba(0, 255, 0, .7)
 }
 
 .wrapper-NhbLHG.modeUnread-3Cxepe .content-1gYQeQ .mainContent-20q_Hp .name-28HaxV {
@@ -1562,7 +1562,7 @@ body, button, input, select, textarea, ::placeholder {
 }
 
 .wrapper-NhbLHG.modeSelected-3DmyhH .content-1gYQeQ:before {
-    background: rgba(255, 255, 255, .1)
+    background: rgba(0, 0, 255, .1)
 }
 
 .wrapper-NhbLHG.modeSelected-3DmyhH .content-1gYQeQ:after {
