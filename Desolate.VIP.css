@@ -819,7 +819,7 @@ body, button, input, select, textarea, ::placeholder {
 }
 
 ::-moz-selection {
-    color: #fff;
+    color: #10ff00;
     background: var(--main-color)
 }
 
