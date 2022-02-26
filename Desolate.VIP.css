@@ -4,9 +4,9 @@
     --success-color: #43b581;
     --danger-color: #982929;
     --channel-unread: var(--main-color);
-    --channel-color: rgba(255, 255, 255, 0.3);
-    --muted-color: rgba(255, 255, 255, 0.1);
-    --channel-text-selected: #fff;
+    --channel-color: rgba(4, 196, 20, 0.3);
+    --muted-color: rgba(180, 38, 3, 0.336);
+    --channel-text-selected: rgb(0, 60, 255);
     --url-color: var(--main-color);
     --online-color: #43b581;
     --idle-color: #faa61a;
